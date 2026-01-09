@@ -1,6 +1,6 @@
 # 🎵 Free Music Player App - Open Source
 
-Created by [Ninja Turtles](https://github.com/parbax33-droid)
+Created by [Ninja Turtles](https://github.com/62fpsgaming-hue/Music-App)
 Team Members: 
 - Neeraj Saini
 - Paree
